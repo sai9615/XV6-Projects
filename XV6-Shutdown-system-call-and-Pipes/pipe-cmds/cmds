@@ -1,0 +1,3 @@
+cat     Makefile
+head  -4
+wc     -l

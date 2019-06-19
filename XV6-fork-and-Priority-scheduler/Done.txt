@@ -1,0 +1,13 @@
+Team Members :
+ 
+1.Nikita Kokne : nkokne1@binghamton.edu
+                          B00760971
+
+2. Sai Milind Tammisetti : stammis1@binghamton.edu
+			        B00764346
+
+
+Notes :
+•	The Part 1 has been completed by successfully.
+•	Also, the implementation for selecting the scheduler and the priority of process via system call was done successfully.
+•	Have implemented priority based scheduling. 
